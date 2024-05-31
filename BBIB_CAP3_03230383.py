@@ -1,12 +1,12 @@
 ################################
-# Github Repo link: 
+# Github Repo link: https://github.com/03230383/03230383_BIA101_B_CAP3
 # Your Name: Tshering Wangmo
 # Your Section : B
 # Your Student ID Number: 03230383
 ################################
 # REFERENCES
-# Links that you referred while solving 
-################################
+# https://machinesintheclouds.com/sliding-window-technique-in-python
+# https://www.youtube.com/watch?v=BRrem1k3904
 # SOLUTION
 # Your Solution Score: 478095
 ################################
