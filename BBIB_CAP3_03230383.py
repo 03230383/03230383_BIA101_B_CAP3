@@ -1,3 +1,17 @@
+################################
+# Github Repo link: 
+# Your Name: Tshering Wangmo
+# Your Section : B
+# Your Student ID Number: 03230383
+################################
+# REFERENCES
+# Links that you referred while solving 
+################################
+# SOLUTION
+# Your Solution Score: 478095
+################################
+
+
 def calculate_total(input_file):
     total = 0
     with open(input_file, 'r') as file:
